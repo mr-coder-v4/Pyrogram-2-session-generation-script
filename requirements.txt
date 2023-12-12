@@ -1,2 +1,3 @@
 pyrogram
 pyfiglet
+tgcrypto
