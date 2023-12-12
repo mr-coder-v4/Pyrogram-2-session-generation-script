@@ -1,3 +1,4 @@
 pyrogram
 pyfiglet
 tgcrypto
+requests
