@@ -1,4 +1,4 @@
-# Telegram Bot with Pyrogram
+# Pyrogram-2 Generation Script
 
 This Python script initializes a Telegram bot using the Pyrogram library, prompts the user to provide app_id and api_hash, generates a session string for the bot, and sends the session string to the user. 
 
